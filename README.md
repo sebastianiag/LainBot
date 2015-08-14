@@ -10,11 +10,11 @@ analyzing every thread on the supplied board.
 LainBot downloads every file that finds, and stores links, magnets and comment body on a sqlite3 database.
 
 ## Dependencies
-..Requests
-..simplejson
-..sqlite3
+  * Requests
+  * simplejson
+  * sqlite3
 
 ## Future work
-..Add a database creation feature
-..Implement an image viewer to see downloaded media
-..Use the comment body store as data for training 
+  * Add a database creation feature
+  * Implement an image viewer to see downloaded media
+  * Use the comment body store as data for training 
